@@ -5,3 +5,17 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:salutation"],
+.signature{
+	font-variant: small-caps;
+}
+
+footer + p,
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+footer{
+	text-align: right;
+}
