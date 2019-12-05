@@ -14,7 +14,7 @@ span[epub|type~="subtitle"]{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
+[epub|type~="bridgehead"] b{
 	font-style: normal;
 }
 
