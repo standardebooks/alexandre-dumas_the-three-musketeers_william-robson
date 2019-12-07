@@ -48,6 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1257</dc:source>
 		<dc:source>https://archive.org/details/threemusketeers02dumagoog</dc:source>
+		<dc:source>https://archive.org/details/threemusketeers01maqugoog</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
