@@ -43,13 +43,19 @@
 		<meta property="term" refines="#subject-4">sh2010115233</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Adventure</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">A young Gascon moves to Paris to join the King’s Musketeers where he starts to investigate the kidnapping of his landlord’s wife.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Three Musketeers&lt;/i&gt; is the first of three adventure novels featuring the character of d’Artagnan written by Alexandre Dumas.&lt;/p&gt;
+			&lt;p&gt;The young d’Artagnan leaves home in Gascony to come to Paris to join the King’s Musketeers. On his way to Paris, the letter which will introduce him to the commander of the Musketeers is stolen by a mysterious man in the town of Meung. This “Man of Meung” turns out to be a confidente of the infamous Cardinal Richelieu, the chief minister of the government of France.&lt;/p&gt;
+			&lt;p&gt;When he arrives in Paris and seeks an audience with the commander of the Musketeers, d’Artagnan sees this man again and rushes to confront him. As he pushes his way out he provokes three inseparable musketeers Athos, Porthos and Aramis; and ends up setting up duels with all three of them that afternoon. At the first of the duels he discovers to his surprise that each of the three is a second to the other. As they start to fight, they are ambushed by the Cardinal’s men and join forces. So begins one of the most enduring of partnerships in literature.&lt;/p&gt;
+			&lt;p&gt;When d’Artagnan’s landlord tells him that his wife has been kidnapped, d’Artagnan investigates, falls in love and becomes embroiled in a plot to destabalise France.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Three Musketeers&lt;/i&gt; was first published in 1844 and has been adapted for stage, film, television and animated many times, such is the endurance of its appeal. At its heart is a fast-paced tale of love and adventure.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1257</dc:source>
 		<dc:source>https://archive.org/details/threemusketeers02dumagoog</dc:source>
 		<dc:source>https://archive.org/details/threemusketeers01maqugoog</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The page scans for Volume 2 are not great quality. The split into volumes was artificial for printing rather than as an aspect of the story and the split between volumes varies according to imprint and so has not been preserved in this edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Three_Musketeers</meta>
