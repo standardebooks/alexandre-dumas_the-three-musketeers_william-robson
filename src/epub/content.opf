@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/threemusketeers02dumagoog</dc:source>
 		<dc:source>https://archive.org/details/threemusketeers01maqugoog</dc:source>
 		<meta property="se:production-notes">The page scans for Volume 2 are not great quality. The split into volumes was artificial for printing rather than as an aspect of the story and the split between volumes varies according to imprint and so has not been preserved in this edition.</meta>
-		<meta property="se:word-count">232433</meta>
+		<meta property="se:word-count">232432</meta>
 		<meta property="se:reading-ease.flesch">71.34</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Three_Musketeers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas_the-three-musketeers_william-robson</meta>
