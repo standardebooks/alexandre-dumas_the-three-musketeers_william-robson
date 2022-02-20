@@ -1,17 +1,17 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="bridgehead"]{
-	display: inline-block;
+/* locations-specific */
+#chapter-39 footer span:last-of-type,
+#chapter-42 footer span:last-of-type{
 	font-style: italic;
-	max-width: 60%;
-	text-align: justify;
-	text-indent: 0;
+	font-variant: normal;
 }
 
-[epub|type~="bridgehead"] b{
-	font-style: normal;
+#chapter-42 blockquote:first-of-type footer p:last-of-type {
+	font-style: italic;
 }
+/* end of location-specific */
 
 /* Styles for letters */
 [epub|type~="z3998:letter"] header{
@@ -23,7 +23,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
@@ -44,22 +43,35 @@ footer{
 	font-variant: small-caps;
 }
 
-/* Styles for songs */
-[epub|type~="z3998:song"] p{
+/* Styles for poetry/verse/songs */
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p > span{
+[epub|type~="z3998:verse"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:song"] p > span + br{
+[epub|type~="z3998:song"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
 }
