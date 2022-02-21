@@ -13,6 +13,20 @@
 }
 /* end of location-specific */
 
+/* bridgeheads */
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] b{
+	font-style: normal;
+}
+/* end of bridgeheads */
+
 /* Styles for letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
