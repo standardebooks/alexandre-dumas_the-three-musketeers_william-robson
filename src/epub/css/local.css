@@ -8,7 +8,7 @@
 	font-variant: normal;
 }
 
-#chapter-42 blockquote:first-of-type footer p:last-of-type {
+#chapter-42 blockquote:first-of-type footer p:last-of-type{
 	font-style: italic;
 }
 /* end of location-specific */
