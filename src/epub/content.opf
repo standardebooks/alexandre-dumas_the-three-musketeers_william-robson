@@ -62,8 +62,8 @@
 		There were a number of capitalization issues that were corrected in editorial commits.
 		SEMoS specifies that internal thoughts that are quoted remain in quotes. However, The Vicomte de Bragelonne (the third/last volume in the d’Artagnan series) has multiple instances where the same quote contains both internal thoughts and spoken words to another person. Having them in the same quote is confusing; after a discussion with the SE editor-in-chief, it was decided to override the SEMoS for the three D'Artagnan novels and convert all internal thoughts to italics. This was done where it was stated or clear from the context that the words were internal thoughts. There are other instances, e.g. where it says the person “murmured to themself,” or where it appears that “said to her/himself” means they actually talked out loud to themselves; those instances have been left as quotes.
 		</meta>
-		<meta property="se:word-count">232535</meta>
-		<meta property="se:reading-ease.flesch">71.55</meta>
+		<meta property="se:word-count">232611</meta>
+		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Three_Musketeers</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/alexandre-dumas_the-three-musketeers_william-robson</meta>
 		<dc:creator id="author">Alexandre Dumas</dc:creator>
