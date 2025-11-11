@@ -22,7 +22,7 @@
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] b{
+[epub|type~="bridgehead"] i{
 	font-style: normal;
 }
 /* end of bridgeheads */
