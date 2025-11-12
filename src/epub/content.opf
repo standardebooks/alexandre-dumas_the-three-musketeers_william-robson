@@ -77,8 +77,8 @@
 		<meta property="file-as" refines="#translator">Robson, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/William_Robson_(writer)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n83043488</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Rembrandt van Rijn</dc:contributor>
 		<meta property="file-as" refines="#artist">Rembrandt van Rijn</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Rembrandt</meta>
@@ -86,8 +86,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John P. Roberts III</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Roberts, John P.</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Roger Labbe</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Labbe, Roger</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
