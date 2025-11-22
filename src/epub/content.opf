@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<dc:title id="title">The Three Musketeers</dc:title>
 		<meta property="file-as" refines="#title">Three Musketeers, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The 3 Musketeers</meta>
+		<meta property="dcterms:alternative" refines="#title">The 3 Musketeers</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">France -- History -- Louis XIII, 1610-1643 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure and adventurers -- Fiction</dc:subject>
