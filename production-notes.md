@@ -1,0 +1,5 @@
+The page scans for Volume 2 are not great quality. The split into volumes was artificial for printing rather than as an aspect of the story and the split between volumes varies according to imprint and so has not been preserved in this edition.
+
+There were a number of capitalization issues that were corrected in editorial commits.
+
+SEMoS specifies that internal thoughts that are quoted remain in quotes. However, The Vicomte de Bragelonne (the third/last volume in the d’Artagnan series) has multiple instances where the same quote contains both internal thoughts and spoken words to another person. Having them in the same quote is confusing; after a discussion with the SE editor-in-chief, it was decided to override the SEMoS for the three D'Artagnan novels and convert all internal thoughts to italics. This was done where it was stated or clear from the context that the words were internal thoughts. There are other instances, e.g. where it says the person “murmured to themself,” or where it appears that “said to her/himself” means they actually talked out loud to themselves; those instances have been left as quotes.
