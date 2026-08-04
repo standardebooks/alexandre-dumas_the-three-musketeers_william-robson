@@ -48,7 +48,7 @@
 		<meta id="collection-1" property="belongs-to-collection">D’Artagnan Romances</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A young Gascon moves to Paris to join the King’s Musketeers where he starts to investigate the kidnapping of his landlord’s wife.</dc:abstract>
+		<meta property="schema:abstract">A young Gascon moves to Paris to join the King’s Musketeers where he starts to investigate the kidnapping of his landlord’s wife.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Three Musketeers&lt;/i&gt; is the first of three adventure novels written by &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas"&gt;Alexandre Dumas&lt;/a&gt; featuring the character of d’Artagnan.&lt;/p&gt;
 			&lt;p&gt;The young d’Artagnan leaves home in Gascony for Paris to join the King’s Musketeers. On his way to Paris, the letter which will introduce him to the commander of the Musketeers is stolen by a mysterious man in the town of Meung. This “Man of Meung” turns out to be a confidant of the infamous Cardinal Richelieu, the chief minister of the government of France.&lt;/p&gt;
