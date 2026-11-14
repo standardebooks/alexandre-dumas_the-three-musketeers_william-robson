@@ -79,9 +79,8 @@
 		<link href="https://id.loc.gov/authorities/names/n83043488.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Rembrandt van Rijn</dc:contributor>
-		<meta property="file-as" refines="#artist">van Rijn, Rembrandt</meta>
-		<meta property="schema:alternateName" refines="#artist">Rembrandt Harmenszoon van Rijn</meta>
+		<dc:contributor id="artist">Rembrandt Harmenszoon van Rijn</dc:contributor>
+		<meta property="file-as" refines="#artist">van Rijn, Rembrandt Harmenszoon</meta>
 		<link href="https://en.wikipedia.org/wiki/Rembrandt" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79142935.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
